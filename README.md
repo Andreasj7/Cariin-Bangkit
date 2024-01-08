@@ -1,4 +1,3 @@
-HEAD
 # cari-in-mobile
 =======
 # Cari-in APP
